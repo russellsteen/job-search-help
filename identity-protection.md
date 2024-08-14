@@ -24,7 +24,7 @@ Beware new accounts, fake domains, and aggressive tactics.  Do not hesitate to b
 
 ## Check the person 
  - How old is their LinkedIn Profile? 
-    - Generally I look for a year [1]^(#footnotes)
+    - Generally I look for a year <sup>[1](#footnotes)</sup>
  - Do they have posts / comments more than a couple of months back?  
     - Are the posts relevant, or spam?  Fake accounts will sometimes farm memes for a few weeks to get followers and look legitimate.
  - Do the posts show thought, or are they just farming clicks, resharing memes, etc.?
