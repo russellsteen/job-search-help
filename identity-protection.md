@@ -8,7 +8,7 @@ Beware new accounts, fake domains, and aggressive tactics.  Do not hesitate to b
 
 
 About this list
- - **Do not navigate to the company website before you do the first three steps.  The website itself could be an attack.**
+ - **Do not navigate to the company website before you do the first four (4) steps.  The website itself could be an attack.**
  - The list is ordered to bail out quickly and save your time.  If things look suspicious in step 1, don't bother with step 2. 
  - Sometimes you cannot get every bit of information.  Emails can be harder to find than you might expect.  If a recruiter reaches out to you, ask for their email.
  - If it acts like a ducks and quacks like a duck, assume it is malicious.  It is on the recruiter to not behave as a scammer, not on you to give them benefit of the doubt.  Scammers, Spammers, and Hackers rely on your "benefit of the doubt" and need to be nice.
@@ -45,7 +45,7 @@ About this list
     - https://en.wikipedia.org/wiki/Subdomain
     - However, take care because ex-mycompany.com is a different domain.  Look closely.
 
-1. Check the company
+## Check the company
  - Make sure the business is a real legal entity
  - Find out what state they are based in.
  - Go to the state government website, you should be able to find a business registration list to see if they are real.
