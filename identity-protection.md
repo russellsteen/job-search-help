@@ -5,9 +5,7 @@ Note:  No system is perfect.  This REDUCES your chance of being scammed, but doe
 Short Version:
 Beware new accounts, fake domains, and aggressive tactics.  Do not hesitate to block.
 
-
-
-About this list
+### About this list
  - **Do not navigate to the company website before you do the first four (4) steps.  The website itself could be an attack.**
  - The list is ordered to bail out quickly and save your time.  If things look suspicious in step 1, don't bother with step 2. 
  - Sometimes you cannot get every bit of information.  Emails can be harder to find than you might expect.  If a recruiter reaches out to you, ask for their email.
@@ -20,9 +18,13 @@ About this list
     - While this could be legit, attachments are a great way to put ransomware / spyware on your device.  Do not take the chance.
  - Won't take "I'm not interested in this opportunity" for an answer.  
     - Say no politely, but if they will not take no for an answer then block them.  You don't need high pressure recruiters in your life.
+ - Sends a job you are clearly unqualified for
+    - Again, could be legit, but I would argue that this is spam regardless
+ - Asks for money, ssn, bank info, etc.
 
 ## Check the person 
- - How old is their LinkedIn Profile?
+ - How old is their LinkedIn Profile? 
+    - Generally I look for a year [1^](#footnotes)
  - Do they have posts / comments more than a couple of months back?  
     - Are the posts relevant, or spam?  Fake accounts will sometimes farm memes for a few weeks to get followers and look legitimate.
  - Do the posts show thought, or are they just farming clicks, resharing memes, etc.?
@@ -47,8 +49,10 @@ About this list
 
 ## Check the company
  - Make sure the business is a real legal entity
- - Find out what state they are based in.
- - Go to the state government website, you should be able to find a business registration list to see if they are real.
+    - Find out what state they are based in.
+    - Go to the state government website, you should be able to find a business registration list to see if they are real.
  - Google their address and go to street view.  Does this look like a real business?
 
 
+### Footnotes
+1 - The reason account age matters is cost.  Spammers/Scammers/Hackers typically have to recycle accounts frequently as they get flagged.  They also hvae a low hit rate and cannot generally afford to curate long histories on these fake accounts.  There is no hard and fast "good age" and as use of AI for faking accounts increases, it will be harder to detect.
