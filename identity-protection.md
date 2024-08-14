@@ -13,7 +13,7 @@ About this list
  - Sometimes you cannot get every bit of information.  Emails can be harder to find than you might expect.  If a recruiter reaches out to you, ask for their email.
  - If it acts like a ducks and quacks like a duck, assume it is malicious.  It is on the recruiter to not behave as a scammer, not on you to give them benefit of the doubt.  Scammers, Spammers, and Hackers rely on your "benefit of the doubt" and need to be nice.
 
-1. Warning signs in the message (if the recruiter messaged you)
+## Warning signs in the message (if the recruiter messaged you)
  - Asks for resume / phone / email in first message
     - Even if this is a real recruiter, it is not the kind of recruiter you want to work with because they are just spamming folks.
  - Sends job description in attachment in first message
@@ -21,14 +21,14 @@ About this list
  - Won't take "I'm not interested in this opportunity" for an answer.  
     - Say no politely, but if they will not take no for an answer then block them.  You don't need high pressure recruiters in your life.
 
-1. Check the person 
+## Check the person 
  - How old is their LinkedIn Profile?
  - Do they have posts / comments more than a couple of months back?  
     - Are the posts relevant, or spam?  Fake accounts will sometimes farm memes for a few weeks to get followers and look legitimate.
  - Do the posts show thought, or are they just farming clicks, resharing memes, etc.?
  - Yes, it is possible that some real recruiters do all of the above.  I have not personally seen this, but it could happen.  However, your safety is paramount here.
 
-1. Check the domain
+## Check the domain
  - Check the emails and other contact information
     - Note the domain (ex:  joe@example.com, example.com is the domain)
  - Go to ICANN (or similar) and check the registration.  A recent created date is a warning.
