@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
+title: Job Search help
+description: Just some hopefully helpful resources for those hunting for jobs
