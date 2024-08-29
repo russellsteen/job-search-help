@@ -55,4 +55,5 @@ Beware new accounts, fake domains, and aggressive tactics.  Do not hesitate to b
 
 
 ### Footnotes
-1 - The reason account age matters is cost.  Spammers/Scammers/Hackers typically have to recycle accounts frequently as they get flagged.  They also hvae a low hit rate and cannot generally afford to curate long histories on these fake accounts.  There is no hard and fast "good age" and as use of AI for faking accounts increases, it will be harder to detect.
+1 - The reason account age matters is cost.  Spammers/Scammers/Hackers typically have to recycle accounts frequently as they get flagged.  They also have a low hit rate and cannot generally afford to curate long histories on these fake accounts.  There is no hard and fast "good age" and as use of AI for faking accounts increases, it will be harder to detect.
+
